@@ -1,3 +1,5 @@
-const sum = require("./index.js")
+//const subtract = require("./subtract.mjs");
 
-console.log(sum(2, 2));
+import subtract from "./subtract.mjs";
+
+console.log(subtract(6, 2));
