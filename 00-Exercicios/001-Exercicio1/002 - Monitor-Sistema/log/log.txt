@@ -1,0 +1,182 @@
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.04
+Uso de Memória: 12.05 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.06
+Uso de Memória: 12.06 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.08
+Uso de Memória: 12.06 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.09
+Uso de Memória: 12.05 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.11
+Uso de Memória: 12.05 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.13
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.14
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.16
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.18
+Uso de Memória: 12.02 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.19
+Uso de Memória: 12.01 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.21
+Uso de Memória: 12.02 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.23
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.25
+Uso de Memória: 12.05 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.26
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.28
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.30
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.31
+Uso de Memória: 12.03 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.33
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.35
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.36
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.38
+Uso de Memória: 12.04 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.40
+Uso de Memória: 12.01 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.41
+Uso de Memória: 12.01 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.43
+Uso de Memória: 12.01 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.45
+Uso de Memória: 12.02 GB
+-------------------------------
+Mostrando informações do Sistema:
+Versão do Sistema Operacional: Windows 10 Pro
+Arquitetura do SO: x64
+Modelo do Processador: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Tempo de Atividade do Sistema (em minutos): 53.46
+Uso de Memória: 12.01 GB
+-------------------------------

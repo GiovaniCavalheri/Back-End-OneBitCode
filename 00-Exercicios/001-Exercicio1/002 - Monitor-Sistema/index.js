@@ -16,10 +16,12 @@ function viewData() {
 Versão do Sistema Operacional: ${version}
 Arquitetura do SO: ${arch}
 Modelo do Processador: ${model}
-Tempo de Atividade do Sistema (em minutos): ${(timeSO / 60).toFixed(2)}
-Uso de Memória: ${(usedMemory / 1024 / 1024 / 1024).toFixed(2)} GB
+Tempo de Atividade do Sistema (em minutos): ${(timeSO / 60).toFixed(2)} 
+Uso de Memória: ${(usedMemory / 1024 / 1024 / 1024).toFixed(2)} GB 
 -------------------------------
 `;
+
+    //toFixed()método é usado para formatar um número com um número especificado de dígitos após a vírgula decimal
 
     createFile(data);
   }, 1000);
@@ -35,6 +37,7 @@ function createFile(data) {
       fs.mkdirSync(logDir);
     }
 
+    // fs.appendFile usado para adicionar dados ao final de um arquivo existente
     fs.appendFile(filePath, data, (error) => {
       if (error) {
         reject(error.message);
