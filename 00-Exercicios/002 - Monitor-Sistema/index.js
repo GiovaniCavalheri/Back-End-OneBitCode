@@ -12,7 +12,8 @@ function viewData() {
     const totalMemory = os.totalmem();
     const usedMemory = totalMemory - memory;
 
-    const data = `Mostrando informações do Sistema:
+
+    const data = `\n Mostrando informações do Sistema:
 Versão do Sistema Operacional: ${version}
 Arquitetura do SO: ${arch}
 Modelo do Processador: ${model}
