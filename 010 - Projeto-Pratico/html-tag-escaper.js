@@ -1,36 +1,46 @@
-const { match } = require("node:assert");
-const fs = require("node:fs");
-const path = require("node:path");
+const fs = require("node:fs"); // Manipulação de arquivos
+const path = require("node:path"); // Manipulação de caminhos
 const readLine = require("node:readline");
 
+
 function escapeHtmlSpecialCharacters(text) {
+  // Substitui todos os caracteres <, > e & encontrados no texto
   return text.replace(/[<>&]/g, (match) => {
     switch (match) {
       case "<":
-        return "&lt";
+        return "&lt"; 
       case ">":
-        return "&gt";
+        return "&gt"; 
       case "&":
-        return "&amp";
+        return "&amp"; 
       default:
-        return match;
+        return match; 
     }
   });
 }
 
+// -----------------------------------------------------
+// Função lê um arquivo HTML. 
+// aplica a conversão de caracteres especiais,
+// e grava o resultado em um novo arquivo.
+// -----------------------------------------------------
+
 function escapeHtmlFile(inputFilePath, outputFilePath) {
-    try {
-        const fileContent = fs.readFileSync(inputFilePath, "utf-8");
-        const escapedContent = escapeHtmlSpecialCharacters(fileContent);
-        fs.writeFileSync(outputFilePath, escapedContent, "utf-8");
-        console.log(` Arquivo Escapado com Sucesso: ${outputFilePath}`);
-    } catch (error) {
-        console.log("Error", error.message);
-        process.exit(1);
-    }
-}
+  try {
+    // Lê o conteúdo do arquivo de entrada (modo texto)
+    const fileContent = fs.readFileSync(inputFilePath, "utf-8");
 
+    // Escapa os caracteres especiais chamando a função anterior
+    const escapedContent = escapeHtmlSpecialCharacters(fileContent);
 
-function askFilePath(question) {
-  const rl = readLine.createInterface({ input: process.stdin, output: process. })
+    // Grava o conteúdo já escapado no novo arquivo
+    fs.writeFileSync(outputFilePath, escapedContent, "utf-8");
+
+    // Exibe mensagem de sucesso no console
+    console.log(` Arquivo escapado com sucesso: ${outputFilePath}`);
+  } catch (error) {
+    // Caso algo dê errado (ex: arquivo não existe), mostra o erro e encerra o processo
+    console.log("Erro ao processar arquivo:", error.message);
+    process.exit(1);
+  }
 }
