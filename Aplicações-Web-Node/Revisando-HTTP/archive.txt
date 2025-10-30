@@ -1,0 +1,32 @@
+==> O que é o HTTP ? 
+    - Principal protocólo utilizado na web. 
+    - Protocolo de comunicação baseado em requisições e respostas; 
+    - Define como cliente e servidor devem interagir, além do formato e modo de transmissão das mensagens. 
+
+
+==> Revisando os principais métodos: 
+    - GET ==> Indica intenção de leitura ou obtenção desses dados. 
+    - POST ==> Indica toda intenção de envio de dados, seja para persistência ou outros fins; 
+    - PUT/PATCH ==> Indica intenção de atualização ou correção de dados no servidor. 
+    - DELETE ==> Indica intenção de exclusão de dados no servidor. 
+
+==> Revisando os principais status: 
+    - 200 e variações: 
+                    - 200: Sucesso(genérico);
+                    - 201: Criado.
+                    - 202: Aceito. 
+                    - 204: Sucesso, porém nenhum conteúdo. 
+                    - 206: Conteúdo Parcial. 
+    - 300 e variações: 
+                    - 301: Movido permanentemente. 
+    - 400 e variações: 
+                    - 400: Requisição Incorreta(genérico).
+                    - 401: Não autorizado. 
+                    - 403: Proibido. 
+                    - 404: Não encontrado.
+                    - 405: Método não permitido.
+                    - 408: Timeout, ou tempo esgotado. 
+    - 500 e variações: 
+                    - 500: Erro interno no servidor. 
+                    - 501: Não implementado. 
+                    - 503: Serviço não disponível. 
