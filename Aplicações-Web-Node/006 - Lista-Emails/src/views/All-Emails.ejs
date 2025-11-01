@@ -1,0 +1,17 @@
+<!-- Recebe todos os email Cadastrados e senhas. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Informações Usuários</title>
+  </head>
+  <body>
+    <ul>
+      <% emailsUsers.forEach(usuario => { %>
+      <li>Email: <%= usuario.emailUser %> - Senha: <%= usuario.password %></li>
+      <% }) %>
+    </ul>
+  </body>
+</html>

@@ -14,8 +14,8 @@ server.use(express.urlencoded({ extended: true }));
 
 server.get("/", (req, res) => {
   res.render("FormRegister", {
-    title: "Homepage",
-    message: "Mensagem dinâmica inserida pelo EJS.",
+    title: "Homepage de Registros de Email",
+    message: "Preencha por favor os requisitos abaixo: ",
   });
 });
 
@@ -32,6 +32,9 @@ server.get("/usuarios", (req, res) => {
   res.render("PageSucess", { emails: emailsUsers });
 });
 
+server.get("/allemails", (req, res) => {
+  res.render("All-Emails", { emailsUsers: emailsUsers });
+});
 const PORT = 3000;
 
 server.listen(PORT, () => {

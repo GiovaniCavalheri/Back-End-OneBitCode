@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulário de Registro</title>
-</head>
-<body>
-  <h1>Preencha o formulário abaixo</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário de Registro</title>
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p><%= message %></p>
 
-  <form action="/register" method="POST">
-    <label for="email">Email do Usuário: </label>
-    <input type="email" name="email" id="email">
-    <label for="password">Senha:</label>
-    <input type="password" name="password" id="password">
+    <form action="/register" method="POST">
+      <label for="email">Email do Usuário: </label>
+      <input type="email" name="email" id="email" />
+      <label for="password">Senha:</label>
+      <input type="password" name="password" id="password" />
 
-    <button type="submit">Enviar</button>
-  </form>
-</body>
+      <button type="submit">Enviar</button>
+    </form>
+  </body>
 </html>
