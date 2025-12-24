@@ -1,5 +1,5 @@
 // => salvando em memória;
-let posts = [];
+let posts = [{  id: "1", title: 'Teste', content: 'Lorem.....', createdAt: new Date(), updatedAt: new Date()}];
 
 // Post = { id, title, content, createdAt, updatedAt }
 
@@ -24,14 +24,18 @@ const postModel = {
   },
 
   savePost(post) {
-    posts.push(post);
+    posts.unshift(post);
   },
 
   updatePost(id, updatedPost) {
+    const index = posts.findIndex(post => post.id === id) 
+    posts[index] = { ...posts[index], ...updatedPost, updatedAt: new Date() }
     
   }, 
 
   deletePost(id) {
-    
+    posts = posts.filter(posts => posts.id !== id)  
   }
 };
+
+module.exports = postModel
