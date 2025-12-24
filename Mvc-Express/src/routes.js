@@ -11,5 +11,11 @@ router.get('/posts/:id', postsController.show)
 
 // ==> Rotas do amin 
 router.get('/admin', adminControler.index)
+router.get('/admin/create', adminControler.create)
+router.get('/admin/edit/:id', adminControler.edit)
+router.post('/admin/create', adminControler.save)
+router.post('/admin/update/:id', adminControler.update)
+router.post('/admin/delete/:id', adminControler.delete)
+
 
 module.exports = router;
