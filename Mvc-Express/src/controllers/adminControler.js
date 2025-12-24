@@ -6,11 +6,13 @@ const adminControler = {
   index: (req, res) => {
     const posts = postModel.getAllPosts();
 
-    res.render('', { posts })
+    res.render('admin', { posts })
   },
 
   // ==> GET /admin/create
-
+    create: (req, res) => {
+        res.render('newPostForm')
+    }
   // ==> POST /admin/create
 
   // ==> GET /admin/edit/:id
